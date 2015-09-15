@@ -1,0 +1,12 @@
+ Bob had a total of 1 tags
+ Sally had a total of 0 tags
+ Sam had a total of 2 tags
+ Jack had a total of 4 tags
+ Jill had a total of 0 tags
+ Kenny had a total of 2 tags
+The best player for the The Cowboys is  Sam with a score of 23
+The best player for the The Sharks is  Jack with a score of 38
+The score for The Cowboys is 38
+The score for The Sharks is 51
+The winner is The Sharks
+e winner is The Cowboys

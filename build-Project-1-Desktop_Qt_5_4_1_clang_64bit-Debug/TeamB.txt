@@ -1,7 +1,5 @@
-The South Park Kids
-5
-6 Eric Cartman
-7 Kyle
-8 Kenny
-9 Stan Marsh
-10 Leopold Butters
+The Sharks
+3
+4 Jack
+5 Jill
+6 Kenny
